@@ -1,0 +1,24 @@
+
+section.Cheesecake{
+    width: 1200px;
+text-align: justify;
+font-family: cursive;
+}
+section.Cheesecake h1{
+    color:rgb(247, 75, 75) ;
+}
+article.Cheesecake__descripción img{
+    display: inline-block; 
+    width: 700px; 
+    height: 350px;
+}
+article.Cheesecake__Ingredientes h2{
+ color: rgb(247, 75, 75);
+}
+article.Cheesecake__Ingredientes a{
+    text-decoration: none;
+    color: black;
+}
+article.Cheesecake__Ingredientes a:hover{
+    color:rgb(247, 75, 75) ;
+}

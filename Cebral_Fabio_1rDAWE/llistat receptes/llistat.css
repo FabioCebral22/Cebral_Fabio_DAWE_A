@@ -1,0 +1,36 @@
+article.llistat-recepte-style-principal{
+    display: block;
+    background-color: crimson;
+margin-left: 280px ;
+    height: 200px;
+    margin-bottom: 50px;
+}
+article.llistat-recepte-style-principal img{
+    float: left;
+    width: 300px;
+}
+article.llistat-recepte-style-principal ul {
+    padding-top: 50px;
+    font-family: cursive;
+    color: black;
+}
+article.llistat-recepte-style-principal a{
+    
+    text-decoration: none;
+    color: white    ;
+}
+.boton-personalizado{
+        text-decoration:none;
+        font-weight: 600;
+        font-size: 20px;
+        color:#333333;
+        padding-top:15px;
+        padding-bottom:15px;
+        padding-left:40px;
+        padding-right:40px;
+        background-color:#FFD27D;
+        border-color: #d8d8d8;
+        border-width: 3px;
+        border-style: solid;
+        border-radius:35px;
+}
